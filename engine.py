@@ -17,17 +17,42 @@ def simple_linear_regression(input_feature, output):
 input_feature = train_data['sqft_living']
 output = train_data['price']
 
-#print simple_linear_regression(input_feature,output)
+print simple_linear_regression(input_feature,output)
 
 def get_regression_predictions(input_feature, intercept, slope):
-    predicted_output = slope * input_feature + intercept
+    predicted_output = list()
+    output = ([slope * input_feature[i] + intercept for i in range(len(input_feature))])
+    predicted_output.append(output)
     return(predicted_output)
 
-print get_regression_predictions(2650, -47116.076574939987, 281.9588385676974)
+print get_regression_predictions([2650], -47116.076574939987, 281.9588385676974)
 
-#not completed
+
 def get_residual_sum_of_squares(input_feature, output, intercept,slope):
-    predicted_output = get_regression_predictions(input_feature, intercept, slope)
-    RSS = sum(output - predicted_output)
+    RSS = 0.0
+    for i in range(len(input_feature)):
+     predicted_output = slope * input_feature[i] + intercept
+     error = output[i] - predicted_output
+     RSS += pow(error,2)
     return(RSS)
-#print get_residual_sum_of_squares(train_data,test_data,-47116.076574939987,281.9588385676974)
+print get_residual_sum_of_squares(input_feature, output, -47116.076574939987, 281.9588385676974)
+def inverse_regression_predictions(output, intercept, slope):
+    estimated_input = (output - intercept)/slope
+    return(estimated_input)
+
+print inverse_regression_predictions(800000, -47116.076574939987, 281.9588385676974 )
+
+input_bedroom_feature = train_data['bedrooms']
+
+print simple_linear_regression(input_bedroom_feature,output)
+
+intercept_bedroom, slope_bedroom = simple_linear_regression(input_bedroom_feature,output)
+
+input_test_living_feature = test_data['sqft_living']
+input_test_bedrooms_feature = test_data['bedrooms']
+output_test = test_data['price']
+
+rss_living_feature = get_residual_sum_of_squares(input_test_living_feature,output_test, -47116.076574939987, 281.9588385676974)
+rss_bedrooms_feature = get_residual_sum_of_squares(input_test_bedrooms_feature, output_test, intercept_bedroom, slope_bedroom)
+print rss_living_feature
+print rss_bedrooms_feature
