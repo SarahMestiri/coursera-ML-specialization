@@ -16,4 +16,6 @@ This branch contains my assignments in <a title="Universiy of Washington machine
      Week 4 assignment 2</a> <br>
      <a title="Week 5 assignment 1" href="coursera-ML-specialization/regression course/week5-assignment1.py">
      Week 5 assignment 1</a> <br>
+       <a title="Week 5 assignment 2" href="coursera-ML-specialization/regression course/week5-assignment2.py">
+     Week 5 assignment 2</a> <br>
      
