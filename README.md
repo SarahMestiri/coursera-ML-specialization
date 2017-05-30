@@ -18,4 +18,5 @@ This branch contains my assignments in <a title="Universiy of Washington machine
      Week 5 assignment 1</a> <br>
        <a title="Week 5 assignment 2" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/regression/regression%20course/week5-assignment2.py">
      Week 5 assignment 2</a> <br>
+      <a title="Week 6 assignment" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/regression/regression%20course/week6-assignment.py"> Week 6 assignment </a> <br>
      
