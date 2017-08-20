@@ -19,4 +19,14 @@ This branch contains my assignments in <a title="Universiy of Washington machine
        <a title="Week 5 assignment 2" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/regression/regression%20course/week5-assignment2.py">
      Week 5 assignment 2</a> <br>
       <a title="Week 6 assignment" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/regression/regression%20course/week6-assignment.py"> Week 6 assignment </a> <br>
+      
+      <h3> course 3: classification </h3>
+      <a title="Week 1 assignment" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/classification/week1.py">
+      Week 1 assignment: Predicting sentiment from product reviews </a> <br>
+       <a title="Week 2 assignment 2" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/classification/week2-assignment2.py">
+      Week 2 assignment 2: Logistic Regression with L2 regularization </a> <br>
+      <a title="Week 3 assignment 1" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/classification/module-5-decision-tree-assignment-1-blank.ipynb">
+      Week 3 assignment 1: Identifying safe loans with decision trees </a> <br>
+     <a title="Week 3 assignment 2" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/classification/module-5-decision-tree-assignment-2-blank.ipynb">
+      Week 3 assignment 2: Implementing binary decision trees </a> <br> 
      
