@@ -28,4 +28,9 @@ This branch contains my assignments in <a title="Universiy of Washington machine
       Week 3 assignment 1: Identifying safe loans with decision trees </a> <br>
      <a title="Week 3 assignment 2" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/classification/module-5-decision-tree-assignment-2-blank.ipynb">
       Week 3 assignment 2: Implementing binary decision trees </a> <br> 
-     
+         <a title="Week 4 assignment" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/classification/module-6-decision-tree-practical-assignment-blank.ipynb">
+      Week 4 assignment: Decision Trees in Practice </a> <br> 
+     <a title="Week 5 assignment 1" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/classification/module-8-boosting-assignment-1-blank.ipynb">
+      Week 5 assignment 1: Exploring Ensemble Methods </a> <br> 
+      <a title="Week 5 assignment 2" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/classification/module-8-boosting-assignment-2-blank.ipynb">
+      Week 5 assignment 2: Boosting a Decision Stump </a> <br> 
