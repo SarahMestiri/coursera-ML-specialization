@@ -34,3 +34,4 @@ This branch contains my assignments in <a title="Universiy of Washington machine
       Week 5 assignment 1: Exploring Ensemble Methods </a> <br> 
       <a title="Week 5 assignment 2" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/classification/module-8-boosting-assignment-2-blank.ipynb">
       Week 5 assignment 2: Boosting a Decision Stump </a> <br> 
+     <a title="  Week 6 assignment" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/classification/module-9-precision-recall-assignment-blank.ipynb"> Week 6 assignment: Exploring Precision and Recall </a> <br>
