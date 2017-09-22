@@ -35,3 +35,5 @@ This branch contains my assignments in <a title="Universiy of Washington machine
       <a title="Week 5 assignment 2" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/classification/module-8-boosting-assignment-2-blank.ipynb">
       Week 5 assignment 2: Boosting a Decision Stump </a> <br> 
      <a title="  Week 6 assignment" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/classification/module-9-precision-recall-assignment-blank.ipynb"> Week 6 assignment: Exploring Precision and Recall </a> <br>
+     <h3>Course 4: Clustering & Retrieval</h3>
+     <a title="Week 2 assignment 1" href="https://github.com/SarahMestiri/coursera-ML-specialization/blob/master/Clustering-Retrieval/0_nearest-neighbors-features-and-metrics_blank.ipynb"> Week 2 assignment 1: Choosing features and metrics for nearest neighbor search</a> <br>
